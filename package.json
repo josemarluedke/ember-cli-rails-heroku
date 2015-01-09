@@ -1,0 +1,17 @@
+{
+  "name": "ember-cli-rails-heroku",
+  "version": "1.0.0",
+  "description": "Testing ember-cli-rails with heroku",
+  "main": "index.js",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {
+    "postinstall": "cd ./app/frontend && npm install && bower install"
+  },
+  "author": "Josemar Luedke",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.3.12"
+  }
+}
