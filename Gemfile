@@ -46,4 +46,4 @@ group :development, :test do
   gem 'spring'
 end
 
-gem 'ember-cli-rails'
+gem 'ember-cli-rails', '0.0.18'

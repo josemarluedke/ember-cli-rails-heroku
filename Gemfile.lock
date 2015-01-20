@@ -54,7 +54,7 @@ GEM
     columnize (0.9.0)
     debug_inspector (0.0.2)
     debugger-linecache (1.2.0)
-    ember-cli-rails (0.0.10)
+    ember-cli-rails (0.0.18)
       railties (~> 4.0)
       sprockets-rails (~> 2.0)
     erubis (2.7.0)
@@ -159,7 +159,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   coffee-rails (~> 4.1.0)
-  ember-cli-rails
+  ember-cli-rails (= 0.0.18)
   jbuilder (~> 2.0)
   jquery-rails
   pg
