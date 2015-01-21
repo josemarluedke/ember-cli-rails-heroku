@@ -12,6 +12,7 @@
   "author": "Josemar Luedke",
   "license": "MIT",
   "dependencies": {
-    "bower": "^1.3.12"
+    "bower": "^1.3.12",
+    "ember-cli-rails-addon": "0.0.8"
   }
 }
